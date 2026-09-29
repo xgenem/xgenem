@@ -2,7 +2,7 @@
 
 I'm **Gene**, an **AI-first software engineer** working from home somewhere on the Orion Arm of the Milky Way.
 
-AI is my primary development tool. I orchestrate AI coding agents like **Claude** and **Kiro** to plan, build, test and ship, which lets me take a product from **idea to production in days, not months**. I stay in the driver's seat: I set the architecture, review every change, and keep the codebase clean and maintainable.
+AI is my primary development tool. I orchestrate AI coding agents like **Claude** and **ChatGPT** to plan, build, test and ship, which lets me take a product from **idea to production in days, not months**. I stay in the driver's seat: I set the architecture, review every change, and keep the codebase clean and maintainable.
 
 **How I work:**
 - 🧠 **AI orchestration:** breaking work into tasks that agents can run in parallel, then reviewing and integrating the results
