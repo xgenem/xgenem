@@ -13,8 +13,10 @@ I stay in the driver's seat: I set the architecture, review every change, and ke
 
 **What I build with:**
 - 📱 **React Native**, **Expo** and **TypeScript** for mobile apps on iOS and Android
+- 🌐 **React** and **Next.js** for web apps, dashboards and landing pages
 - 🗄️ **Supabase/Postgres** and **AWS** for backends (auth, row-level security, Lambda, scheduled jobs)
-- 🤖 **LLM-powered features** built into products: chat, automation and smart workflows
+- 🤖 **LLM-powered features** built into products: chat and automation
+- 🎮 **Game dev** as a hobby, for fun and for learning new tricks
 
 #### Let's connect!
 [<img alt="DEV" src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/gene)
