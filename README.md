@@ -1,17 +1,18 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Gene**, a freelance software developer working from home somewhere on the Orion Arm of the Milky Way.
+I'm **Gene**, an **AI-first software engineer** working from home somewhere on the Orion Arm of the Milky Way.
 
-I help founders and small teams go from idea to working product **fast**. I use AI-assisted development to cut build time from weeks to days, without cutting corners on code quality.
+AI is my primary development tool. I orchestrate AI coding agents like **Claude** and **Kiro** to plan, build, test and ship, which lets me take a product from **idea to production in days, not months**. I stay in the driver's seat: I set the architecture, review every change, and keep the codebase clean and maintainable.
 
-**What I can take on:**
-- 📱 Mobile apps with **React Native**, **Expo** and **TypeScript**, shipped to the App Store and Google Play
-- ⚡ MVPs and prototypes you can put in front of users quickly
-- 🗄️ Backends on **Supabase/Postgres** and **AWS** (auth, row-level security, Lambda, scheduled jobs)
-- 🤖 AI features built into your product: chat, automation and smart workflows
-- 🛠️ Quick fixes, feature additions and cleanup on existing codebases
+**How I work:**
+- 🧠 **AI orchestration:** breaking work into tasks that agents can run in parallel, then reviewing and integrating the results
+- ⚡ **Rapid product delivery:** MVPs and full products, from first sketch to App Store release
+- 🔍 **Human-in-the-loop quality:** specs first, code review on everything, and tests the agents have to pass
 
-Small, well-defined jobs are welcome. If you have something that needs to ship soon, let's talk.
+**What I build with:**
+- 📱 **React Native**, **Expo** and **TypeScript** for mobile apps on iOS and Android
+- 🗄️ **Supabase/Postgres** and **AWS** for backends (auth, row-level security, Lambda, scheduled jobs)
+- 🤖 **LLM-powered features** built into products: chat, automation and smart workflows
 
 #### Let's connect!
 [<img alt="DEV" src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/gene)
