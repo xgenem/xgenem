@@ -21,3 +21,5 @@ I stay in the driver's seat: I set the architecture, review every change, and ke
 #### Let's connect!
 [<img alt="DEV" src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/gene)
 [<img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://x.com/teknologene)
+
+[Book a meeting on Calendly](https://calendly.com/teknologene/meet)
